@@ -30,7 +30,7 @@
 * **智能异动告警**：设定业务阈值（如核心指标环比下跌超 10%），触发 🚨 红色预警，辅助运营快速定位异常点（如节假日回落或服务器宕机）。
 * **一键生成结构化简报**：设计高阶 Prompt，秒级输出企业级 Markdown 格式数据看板与次日运营动作建议。
 
-📺 **[[点击查看 AI 工作流自动生成的日报,以及AI工作流的数据网站](https://udify.app/workflow/yCjamIJPMqeymNd0)/https://github.com/stevelibei123-star/-/blob/main/Dify%E6%B5%8B%E8%AF%95%20(2).bmp/]** 
+📺 **[[点击查看 AI 工作流自动生成的日报,以及AI工作流的数据网站](https://udify.app/workflow/yCjamIJPMqeymNd0)/https://github.com/stevelibei123-star/-/blob/main/Dify%E6%B5%8B%E8%AF%95%20(2).bmp/https://github.com/stevelibei123-star/-/blob/main/%E6%AF%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%BF%90%E8%90%A5%E7%AE%80%E6%8A%A5.pdf]** 
 
 ---
 
@@ -48,14 +48,6 @@
 
 ## 联系我
 期待能与您进一步交流！
-* 📧 邮箱：1411918541@qq.com
-* 📱 微信：LB13798715313
-* 📥 **[点击下载我的完整单页简历 (https://github.com/stevelibei123-star/-/blob/main/%E6%9D%8E%E8%B4%9D%E2%80%94%E8%BF%90%E8%90%A5.pdf)]**
-
-
-
-1. **填空**：把上面带方括号 `[ ]` 的地方换成你真实的信息，把你的 PDF 和即将录制的视频拖进去。
-2. **分享**：点击 Notion 右上角的 **"Share" (分享)**，选择 **"Publish to web" (发布到网络)**。
-3. **完成！** 你会获得一个链接。以后投简历时，除了附上 PDF 简历，直接在邮件正文里写一句：“欢迎访问我的个人主页查看详细的 AI 工作流演示与《逆战》分析报告：[粘贴你的 Notion 链接]”。
-
-这对于文科生来说，绝对是一套极具反差感、战斗力爆表的展示方式。要不要现在就打开 Notion 试试把文字贴进去看看效果？遇到任何不知道怎么放文件的地方，随时问我！
+* 邮箱：1411918541@qq.com
+* 微信：LB13798715313
+* **[点击下载我的完整单页简历 (https://github.com/stevelibei123-star/-/blob/main/%E6%9D%8E%E8%B4%9D%E2%80%94%E8%BF%90%E8%90%A5.pdf)]**
