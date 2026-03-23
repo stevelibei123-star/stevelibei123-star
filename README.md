@@ -30,8 +30,8 @@
 * **智能异动告警**：设定业务阈值（如核心指标环比下跌超 10%），触发 🚨 红色预警，辅助运营快速定位异常点（如节假日回落或服务器宕机）。
 * **一键生成结构化简报**：设计高阶 Prompt，秒级输出企业级 Markdown 格式数据看板与次日运营动作建议。
 
-**[点击查看 AI 工作流自动生成的日报(https://github.com/stevelibei123-star/-/blob/main/%E6%AF%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%BF%90%E8%90%A5%E7%AE%80%E6%8A%A5.pdf)]**
-**[以及AI工作流的数据网站(https://udify.app/workflow/yCjamIJPMqeymNd0)]** 
+* **[点击查看 AI 工作流自动生成的日报https://github.com/stevelibei123-star/-/blob/main/%E6%AF%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%BF%90%E8%90%A5%E7%AE%80%E6%8A%A5.pdf]**
+* **[以及AI工作流的数据网站https://udify.app/workflow/yCjamIJPMqeymNd0]** 
 
 ---
 
